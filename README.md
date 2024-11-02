@@ -9,9 +9,6 @@ Hello! I'm Oyu Enkhbold, a computer science student at Princeton University, wit
 - Recipient of the **Dale Summer Award** for studying traditional Mongolian music and playing the morin khuur
 
 ## 🌟 Key Skills
-
-JavaScript Nodejs Python React Java C++ HTML5 CSS3 Bootstrap TypeScript MongoDB Redis ElasticSearch GraphQL Apollo GraphQL PostgreSQL MySQL Heroku Docker DigitalOcean Amazon AWS Microsoft Azure Google Cloud Git GitHub GitLab BitBucket Raspberry Pi
-
 - **Languages**: Python, JavaScript (React, Node.js), Go, SQL, Swift, HTML/CSS, ARM64 assembly
 - **Technologies**: React, Flask, Bootstrap, MongoDB, PostgreSQL, Vite, Neo4j
 - **Tools**: Notion, Figma, GitHub, Google Cloud Platform, Express
