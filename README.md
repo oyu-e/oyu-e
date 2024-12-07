@@ -27,7 +27,7 @@ Hello! I'm Oyu Enkhbold, a computer science student at Princeton University, wit
 
 ## 🚀 Current Projects
 - **Study Mode for React app**: Developing an interactive study mode component with user-selectable playlists and customizable backgrounds, as well as autocomplete algorithm for chatbot.
-- **Accenture Machine Learning Research**: Researching tech news summarization as part of a machine learning project.
+- **[Accenture Machine Learning Research](https://github.com/oyu-e/btt-accenture1c)**: Researching tech news with Neo4J to view trends + create recommendations!
 
 ## 🌏 Fun Facts
 - **Multilingual**: Fluent in English, Mongolian, and Spanish, with a Seal of Biliteracy in Spanish.
