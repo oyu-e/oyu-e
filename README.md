@@ -31,8 +31,4 @@ Hello! I'm Oyu Enkhbold, a computer science student at Princeton University, wit
 
 ## 🌏 Fun Facts
 - **Multilingual**: Fluent in English, Mongolian, and Spanish, with a Seal of Biliteracy in Spanish.
-- **Adventure Lover**: Passionate about travel and culture, especially from my Mongolian heritage, and have explored various places in Asia and Europe.
 - **Food Enthusiast**: I love discovering new flavors and sharing my culinary experiences through Beli reviews (@oyugobbold), along with spending time in the kitchen experimenting with recipes.
-
-## 📈 Goals & Aspirations
-I'm driven by curiosity and the desire to create impactful, user-centric applications. My current goals include advancing my skills in backend engineering, contributing to projects that make a difference, and exploring roles in software development where I can work on both innovative technologies and end-user experiences.
